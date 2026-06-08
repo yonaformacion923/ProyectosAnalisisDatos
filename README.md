@@ -1,2 +1,2 @@
 # ProyectosAnalisisDatos
-Proyectos del boorcamp de análisis de datos de IT ACADEMY
+Proyectos del bootcamp de análisis de datos de IT ACADEMY
